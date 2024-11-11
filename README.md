@@ -21,7 +21,7 @@ El proyecto contiene:
 
 La página está hosteada por el propio servidor de Streamlit asi que puedes usarla sin tener que instalar nada. Pincha en el siguiente enlace:
 
-https://titanic-project---app-gcveq5oevggkucftmlp89d.streamlit.app
+https://titanic-project---app-xz3l7wkn9hg7sgxxjlbvbe.streamlit.app
 
 - **Navegación**: El proyecto está dividido en varias páginas. Una sobre descripción de los pasajeros y sus datos, otra sobre el manejo de dichos datos mediante plots y filtros y la última página de IA
 - **Filtro de datos**: Existe un formulario para filtrar los datos del dataframe principal
@@ -94,7 +94,7 @@ A file named titanic_ai_model.py that defines the AI model used to train and pre
 
 The page is hosted by Streamlit itself, so you can use it without needing to install anything. Click on the link below to access the page:
 
-https://titanic-project---app-gcveq5oevggkucftmlp89d.streamlit.app
+https://titanic-project---app-xz3l7wkn9hg7sgxxjlbvbe.streamlit.app
 
 - Navigation: The project is divided into several pages. One page presents a description of the passengers and their data, another handles these data through plots and filters, and the last page features the AI.
 - Data Filtering: There is a form to filter data from the main dataframe.
