@@ -77,13 +77,6 @@ def generate_plot(var1, var2, var3, color_var, num_var, plot_type):
             z = num_var,
             text_auto = True
         )
-    elif plot_type == 'Treemap':
-        fig = px.treemap(
-            st.session_state['df_fil'],
-            path = [var1, var2, var3],
-            values = num_var,
-            color = color_var
-        )
 
     return fig
 
@@ -135,7 +128,7 @@ def page_2():
     with col_plot_2:
         plot_type = st.selectbox(
             'Type of plot',
-            options = ['Bar','Pie','Scatter','Heatmap','Treemap']
+            options = ['Bar','Pie','Scatter','Heatmap']
         )
 
         var1 = st.selectbox(
