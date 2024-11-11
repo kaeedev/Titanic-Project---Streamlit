@@ -96,11 +96,11 @@ The page is hosted by Streamlit itself, so you can use it without needing to ins
 
 https://titanic-project---app-gcveq5oevggkucftmlp89d.streamlit.app
 
-Navigation: The project is divided into several pages. One page presents a description of the passengers and their data, another handles these data through plots and filters, and the last page features the AI.
-Data Filtering: There is a form to filter data from the main dataframe.
-AI: An AI that predicts if a passenger survived or not based on the data provided.
-Plots: Based on the created or filtered dataframe, you can visualize the values you want, applying specific filters for the plots to display specific data.
-Sessions and Caching: The website uses caching and sessions, so even if you leave and return to the site, the data will be retained.
+- Navigation: The project is divided into several pages. One page presents a description of the passengers and their data, another handles these data through plots and filters, and the last page features the AI.
+- Data Filtering: There is a form to filter data from the main dataframe.
+- AI: An AI that predicts if a passenger survived or not based on the data provided.
+- Plots: Based on the created or filtered dataframe, you can visualize the values you want, applying specific filters for the plots to display specific data.
+- Sessions and Caching: The website uses caching and sessions, so even if you leave and return to the site, the data will be retained.
 
 ## 🛠️ Installation and Running
 
