@@ -1,6 +1,6 @@
 ## ESP:
 
-# 🚢 Titanic Project. Titanic Passengers Datas 🐍
+# 🚢 Titanic Project. Titanic Passengers Datas + IA 🐍
 
 Página web sobre datos de los pasajeros del Titanic. Se pueden consultar graficas hechas con pyplot sobre cuantos supervivientes hay de cierta edad, por sexo, por la zona de embarque.... Tiene implementado una IA que predice según los datos que se le pasen
 si el pasajero ha sobrevivido o no.
@@ -74,7 +74,7 @@ Si tienes alguna duda o quieres utilizar algún recurso de este proyecto, por fa
 
 ## EN:
 
-# 🚢 Titanic Project. Titanic Passengers Datas 🐍
+# 🚢 Titanic Project. Titanic Passengers Datas + IA 🐍
 
 A website showcasing Titanic passenger data. It features graphs created with pyplot displaying the number of survivors by age, gender, boarding location, etc. It also has an AI implemented that predicts whether a passenger survived or not based on the given data.
 
